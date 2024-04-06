@@ -8,6 +8,7 @@ let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
 	'cf.090227.xyz:443#优选官方线路',
+	'sp.rweek.top:443#优选官方线路',
 ];
 
 // 设置优选地址api接口
@@ -21,6 +22,10 @@ let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
 	'www.who.int:8880#官方优选域名',
+	'cfip.xxxxxxxx.tk:2096#官方优选域名',
+	'cdn.kaiche.tk:2096#官方优选域名',
+	'c.xf.free.hr:2087#官方优选域名',
+	'hk.rweek.top:2052#官方优选域名',
 ];
 
 // 设置优选noTLS地址api接口
