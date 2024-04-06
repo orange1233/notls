@@ -9,6 +9,23 @@ let addresses = [
 	'cloudflare.cfgo.cc#优选官方线路',
 	'cf.090227.xyz:443#优选官方线路',
 	'sp.rweek.top:443#优选官方线路',
+	'time.cloudflare.com#官方优选域名',
+	'shopify.com#官方优选域名',
+	'time.is#官方优选域名',
+	'icook.hk#官方优选域名',
+	'icook.tw#官方优选域名',
+	'ip.sb#官方优选域名',
+	'japan.com#官方优选域名',
+	'malaysia.com#官方优选域名',
+	'russia.com#官方优选域名',
+	'singapore.com#官方优选域名',
+	'skk.moe#官方优选域名',
+	'www.visa.com#官方优选域名',
+	'www.visa.com.sg#官方优选域名',
+	'www.visa.com.hk#官方优选域名',
+	'www.visa.com.tw#官方优选域名',
+	'www.visa.co.jp#官方优选域名',
+	'www.visakorea.com#官方优选域名',
 ];
 
 // 设置优选地址api接口
